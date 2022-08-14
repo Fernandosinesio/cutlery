@@ -5028,13 +5028,21 @@ Nessa seção você deve colocar qualquer evidência do treinamento, como por ex
 ![Metrics graphs](https://raw.githubusercontent.com/Fernandosinesio/cutlery/main/assets/metrics%20graphs.png)
 ![Confusion Matrix](https://raw.githubusercontent.com/Fernandosinesio/cutlery/main/assets/confusion_matrix.png)
 ![Results](https://raw.githubusercontent.com/Fernandosinesio/cutlery/main/assets/results.png)
+
 https://wandb.ai/fernando-sinesio/YOLOv5/reports/metrics-mAP_0-5-0-95-22-08-14-17-08-09---VmlldzoyNDczNTgy?accessToken=yzikz7ys5pufigtd68hr7rb521cs9qy3xa1bgbgu467sa65886hwmkujc482gjyl<br>
+
 https://wandb.ai/fernando-sinesio/YOLOv5/reports/metrics-recall-22-08-14-17-08-89---VmlldzoyNDczNjI2?accessToken=id4993430jym83dx9y5rhnakdmgyfcpkd01a4e6k36x1mol2jf7s60k8fo6u00c5<br>
+
 https://wandb.ai/fernando-sinesio/YOLOv5/reports/metrics-mAP_0-5-22-08-14-17-08-98---VmlldzoyNDczNjI4?accessToken=rq3b2sjogvwg421j9u36jci7caluqxj17l4smaj9i9m5aheq1x7uu1y8t1kyzeo1<br>
+
 https://wandb.ai/fernando-sinesio/YOLOv5/reports/metrics-precision-22-08-14-17-08-03---VmlldzoyNDczNjI5?accessToken=gdtpu0e0u0sad1y3tacykddgwe3nhmej390n0wgd27x2r8wtfiphruyfkvyt1h8l<br>
+
 https://wandb.ai/fernando-sinesio/YOLOv5/reports/train-cls_loss-22-08-14-17-08-33---VmlldzoyNDczNjMw?accessToken=rr0d5ku6rayek9o13qs1tdg6chwg13ezg2lv8352sm3w1c185njqt3tt28g2f4q9<br>
+
 https://wandb.ai/fernando-sinesio/YOLOv5/reports/train-obj_loss-22-08-14-17-08-47---VmlldzoyNDczNjMx?accessToken=v0rlsljr4ggt0huudm0orj6w9i422jwns0sewcos3rya1qs85flbhgp21ec8oo2q<br>
+
 https://wandb.ai/fernando-sinesio/YOLOv5/reports/train-box_loss-22-08-14-17-08-79---VmlldzoyNDczNjMy?accessToken=7bki8h8c1598yqj9qk0m0opbpkvh1ora7lx7nosc39wtan7wivjg8tg5tgtao5gk<br>
+
 
 
 
