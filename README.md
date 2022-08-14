@@ -5022,7 +5022,6 @@ wandb: Find logs at: ./wandb/run-20220813_200753-c2lj6niz/logs
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 ![Accuracy](https://raw.githubusercontent.com/Fernandosinesio/cutlery/main/assets/best%20epoch%20accuracy.png)
 ![Metrics graphs](https://raw.githubusercontent.com/Fernandosinesio/cutlery/main/assets/metrics%20graphs.png)
@@ -5049,13 +5048,9 @@ https://wandb.ai/fernando-sinesio/YOLOv5/reports/train-box_loss-22-08-14-17-08-7
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
 [Roboflow cutlery_class Image Dataset](https://app.roboflow.com/fernandosinesio/cutlery_class/11)
 
 ## HuggingFace
-
-Nessa seção você deve publicar o link para o HuggingFace
 
 Dataset: FernandoSinesio/cutlery<br>
 Aplicação: https://huggingface.co/spaces/FernandoSinesio/cutlery
